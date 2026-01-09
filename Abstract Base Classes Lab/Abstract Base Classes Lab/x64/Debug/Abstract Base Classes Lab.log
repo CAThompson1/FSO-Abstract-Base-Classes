@@ -1,0 +1,8 @@
+﻿  Abstract Base Classes Lab.cpp
+C:\Users\Caedan Thompson\Desktop\Coding stuff\Abstract Base Classes Lab\Abstract Base Classes Lab\Abstract Base Classes Lab.cpp(34,9): warning C4101: 'choice': unreferenced local variable
+  Base.cpp
+C:\Users\Caedan Thompson\Desktop\Coding stuff\Abstract Base Classes Lab\Abstract Base Classes Lab\Base.cpp(11,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Employee.cpp
+  Student.cpp
+  Generating Code...
+  Abstract Base Classes Lab.vcxproj -> C:\Users\Caedan Thompson\Desktop\Coding stuff\Abstract Base Classes Lab\x64\Debug\Abstract Base Classes Lab.exe
